@@ -3,3 +3,11 @@
     width: 150px;
     background-color: yellow;
 }
+
+#heading{
+    color: red;
+}
+
+.yellow-text{
+    color: yellow;
+}
